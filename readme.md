@@ -13,3 +13,9 @@ Search and scrape public data from social media networks like Instagram, Faceboo
 
 https://www.checkusernamess.com/
 check the username
+
+https://inteltechniques.com/
+literally everything (tools) 
+
+https://osintframework.com/
+a root of everything
